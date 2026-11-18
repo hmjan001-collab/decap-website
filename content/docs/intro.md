@@ -1,10 +1,12 @@
 ---
 linkTitle: Overview
-title: Decap CMS overview
-group: Intro
+title: jobs & news
+group: Add
 weight: 1
+slug: wildlifeaqeem.netlify.app/dragonfly-diversity-pakistan
 aliases:
   - /docs/
+  - wildlifeaqeem.netlify.app
 ---
 
 Decap CMS (formerly Netlify CMS) is an open source content management system for your Git workflow that enables you to provide editors with a friendly UI and intuitive workflows. You can use it with any static site generator to create faster, more flexible web projects. Content is stored in your Git repository alongside your code for easier versioning, multi-channel publishing, and the option to handle content updates directly in Git.
