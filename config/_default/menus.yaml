@@ -1,4 +1,3 @@
-# Main navigation menu
 main:
   - name: Resources
     identifier: resources
@@ -30,11 +29,6 @@ main:
   - name: Support
     identifier: support
     weight: 20
-  # Paused while under Paddle AUP review (2026-08-27) — uncomment to relink.
-  # - name: Expert Services
-  #   url: /services/
-  #   parent: support
-  #   weight: 21
   - name: Community
     url: /community/
     parent: support
@@ -80,14 +74,12 @@ main:
   - name: Decap Turbo
     url: /turbo/
     weight: 40
-
-# Docs navigation menu
 docs:
   - name: Intro to Decap CMS
     identifier: Intro
     weight: 10
-  - name: Add To Your Site
-    identifier: Add
+  - name: jobs and news
+    identifier: notifications
     weight: 20
   - name: Account Settings
     identifier: Accounts
